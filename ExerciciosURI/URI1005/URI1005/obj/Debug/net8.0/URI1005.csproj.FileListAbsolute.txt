@@ -1,0 +1,15 @@
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\bin\Debug\net8.0\URI1005.exe
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\bin\Debug\net8.0\URI1005.deps.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\bin\Debug\net8.0\URI1005.runtimeconfig.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\bin\Debug\net8.0\URI1005.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\bin\Debug\net8.0\URI1005.pdb
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\URI1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\URI1005.AssemblyInfoInputs.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\URI1005.AssemblyInfo.cs
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\URI1005.csproj.CoreCompileInputs.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\URI1005.sourcelink.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\URI1005.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\refint\URI1005.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\URI1005.pdb
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\URI1005.genruntimeconfig.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1005\URI1005\obj\Debug\net8.0\ref\URI1005.dll
