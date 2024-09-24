@@ -1,1 +1,1 @@
-# Luiizjm-Exercicios-URI-Online-Judge
+# Exercicios URI Online Judge
