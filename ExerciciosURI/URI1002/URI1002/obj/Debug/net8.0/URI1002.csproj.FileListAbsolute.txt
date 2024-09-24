@@ -1,0 +1,14 @@
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\bin\Debug\net8.0\URI1002.exe
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\bin\Debug\net8.0\URI1002.deps.json
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\bin\Debug\net8.0\URI1002.runtimeconfig.json
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\bin\Debug\net8.0\URI1002.dll
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\bin\Debug\net8.0\URI1002.pdb
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\URI1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\URI1002.AssemblyInfoInputs.cache
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\URI1002.AssemblyInfo.cs
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\URI1002.csproj.CoreCompileInputs.cache
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\URI1002.dll
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\refint\URI1002.dll
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\URI1002.pdb
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\URI1002.genruntimeconfig.cache
+C:\Users\luiiz\Documents\ExerciciosURI\URI1002\URI1002\obj\Debug\net8.0\ref\URI1002.dll
