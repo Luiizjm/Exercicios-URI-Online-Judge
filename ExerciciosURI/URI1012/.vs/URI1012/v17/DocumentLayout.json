@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\luiiz\\Documents\\GitHub\\Exercicios-URI-Online-Judge\\ExerciciosURI\\URI1012\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{932DCEB5-F145-408B-A4C2-EEDE25C677B5}|URI1012\\URI1012.csproj|c:\\users\\luiiz\\documents\\github\\exercicios-uri-online-judge\\exerciciosuri\\uri1012\\uri1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{932DCEB5-F145-408B-A4C2-EEDE25C677B5}|URI1012\\URI1012.csproj|solutionrelative:uri1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luiiz\\Documents\\GitHub\\Exercicios-URI-Online-Judge\\ExerciciosURI\\URI1012\\URI1012\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:URI1012\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "URI1012\\Program.cs",
               "ToolTip": "C:\\Users\\luiiz\\Documents\\GitHub\\Exercicios-URI-Online-Judge\\ExerciciosURI\\URI1012\\URI1012\\Program.cs",
               "RelativeToolTip": "URI1012\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T19:23:39.129Z",
               "EditorCaption": ""
