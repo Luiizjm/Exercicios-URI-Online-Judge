@@ -1,0 +1,15 @@
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\bin\Debug\net8.0\URI1016.exe
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\bin\Debug\net8.0\URI1016.deps.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\bin\Debug\net8.0\URI1016.runtimeconfig.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\bin\Debug\net8.0\URI1016.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\bin\Debug\net8.0\URI1016.pdb
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\URI1016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\URI1016.AssemblyInfoInputs.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\URI1016.AssemblyInfo.cs
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\URI1016.csproj.CoreCompileInputs.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\URI1016.sourcelink.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\URI1016.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\refint\URI1016.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\URI1016.pdb
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\URI1016.genruntimeconfig.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\URI1016\URI1016\obj\Debug\net8.0\ref\URI1016.dll
