@@ -8,7 +8,6 @@ class URI
         int horas, minutos, segundos;
         int resto_horas;
 
-        Console.Write("Segundos: ");
         int entrada_seg = int.Parse(Console.ReadLine());
 
         horas = entrada_seg / 3600;
