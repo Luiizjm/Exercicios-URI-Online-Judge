@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\URI1021",
+    "\\URI1021\\URI1021"
   ],
+  "SelectedNode": "\\URI1021\\URI1021\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
