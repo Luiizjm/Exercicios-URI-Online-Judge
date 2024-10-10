@@ -1,0 +1,15 @@
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\bin\Debug\net8.0\URI1020.exe
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\bin\Debug\net8.0\URI1020.deps.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\bin\Debug\net8.0\URI1020.runtimeconfig.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\bin\Debug\net8.0\URI1020.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\bin\Debug\net8.0\URI1020.pdb
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\URI1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\URI1020.AssemblyInfoInputs.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\URI1020.AssemblyInfo.cs
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\URI1020.csproj.CoreCompileInputs.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\URI1020.sourcelink.json
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\URI1020.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\refint\URI1020.dll
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\URI1020.pdb
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\URI1020.genruntimeconfig.cache
+C:\Users\luiiz\Documents\GitHub\Exercicios-URI-Online-Judge\ExerciciosURI\URI1020\URI1020\obj\Debug\net8.0\ref\URI1020.dll
