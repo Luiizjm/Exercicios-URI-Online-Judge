@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luiiz\\Documents\\GitHub\\Exercicios-URI-Online-Judge\\ExerciciosURI\\URI1038\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30A61D1A-3B15-44F4-9985-C2BB4D443A51}|URI1038\\URI1038.csproj|c:\\users\\luiiz\\documents\\github\\exercicios-uri-online-judge\\exerciciosuri\\uri1038\\uri1038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A61D1A-3B15-44F4-9985-C2BB4D443A51}|URI1038\\URI1038.csproj|solutionrelative:uri1038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luiiz\\Documents\\GitHub\\Exercicios-URI-Online-Judge\\ExerciciosURI\\URI1038\\URI1038\\Program.cs",
+              "RelativeDocumentMoniker": "URI1038\\Program.cs",
+              "ToolTip": "C:\\Users\\luiiz\\Documents\\GitHub\\Exercicios-URI-Online-Judge\\ExerciciosURI\\URI1038\\URI1038\\Program.cs",
+              "RelativeToolTip": "URI1038\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:13:10.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
